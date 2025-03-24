@@ -1,4 +1,4 @@
-<h1>AI Projects Repository</h1>
+<h1>DATA ANALYSIS REPOSITOR</h1>
 
 <h2>Overview</h2>
 <p>This repository contains two projects:</p>
