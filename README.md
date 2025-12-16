@@ -3,7 +3,7 @@
 <h2>Overview</h2>
 <p>This repository contains two projects:</p>
 <ol>
-  <li><strong>Image Processing with Numpy and Matplotlib</strong> - Demonstrates basic image processing techniques using Python.</li>
+  <li><strong>Image Processing with Numpy </strong> - Demonstrates basic image processing techniques using Python.</li>
   <li><strong>IMDB Database Analysis Project</strong> - Analyzes IMDB movie data to identify trends in ratings, genres, and revenue.</li>
 </ol>
 
