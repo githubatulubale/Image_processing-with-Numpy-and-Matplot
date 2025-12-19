@@ -65,9 +65,8 @@ strong numerical operations. This project explores how NumPy can be used to:
 <pre>
 image-analysis-numpy/
 │
-├── images/            # Input images
 ├── notebooks/         # Image analysis notebooks
-├── src/               # Core NumPy-based image operations
+├── requirements.txt   
 └── README.md
 </pre>
 
